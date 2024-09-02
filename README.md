@@ -1,6 +1,6 @@
 # dataisking-healthcare
 
-# Healthcare, a rehabilitation home analysis
+# Healthcare, a rehabilitation hospital analysis
 
 Dashboard Visual 👉🏼 [PowerBi Link](https://app.powerbi.com/view?r=eyJrIjoiNmNiZDU1MDAtYjQ5OS00MjlkLTg4ZmQtZTJkNzk0ZDg0ZWVjIiwidCI6IjNhNjEyMzUzLTUyZjktNDJlZi1hNDdkLTEzNmE4MzZlZWVhZSJ9)
 
